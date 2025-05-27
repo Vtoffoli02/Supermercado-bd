@@ -1,0 +1,4 @@
+#Tem 4 Anas no banco de dados
+#Existem 3 Carlos e são pessoas diferentes
+#Não existem pessoas com o mesmo CPF
+#3 produtos custam mais de 20 reais
